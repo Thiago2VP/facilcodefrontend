@@ -16,7 +16,7 @@
 <br>
 <img src="assets/5.jpeg">
 <br>
-<img src="assets/6.jpeg">
+<img src="assets/6.gif">
 <br>
 <img src="assets/7.jpeg">
 <br>
